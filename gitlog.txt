@@ -1,2 +1,3 @@
 This is log file
-Experimenting with it
+Experimenting with it...
+Start... 1 2 3 
